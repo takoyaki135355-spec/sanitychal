@@ -1,0 +1,15 @@
+#           wsp gng
+#           this site is rlly cool right?
+#           
+#
+#
+#
+#                click
+#
+#           YES     or      NO
+#
+#     im just kidding this is text
+
+User-Agent: CTFplayrrrrr
+Disallow: hello/why/you/looking/here/i/dont/want/you/here/at/all
+Allow: u/gotta/be/dumb/if/u/think/ts/the/flag
